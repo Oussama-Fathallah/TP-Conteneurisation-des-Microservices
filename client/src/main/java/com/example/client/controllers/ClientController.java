@@ -10,6 +10,7 @@ import java.util.List;
 @RestController
 @RequestMapping("api/client")
 public class ClientController {
+  //teste 
     @Autowired
     private ClientService service;
 
